@@ -1,0 +1,1 @@
+A classic arcade Pong game. Can be played by 2 players.
